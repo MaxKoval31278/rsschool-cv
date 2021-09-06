@@ -1,10 +1,10 @@
-Maksim Koval 
+# Maksim Koval 
 
-My contacts
-e-mail: max.koval31278@gmail.com
-Phone: +7 999 172 23 02
+## My contacts
+* e-mail: max.koval31278@gmail.com
+* Phone: +7 999 172 23 02
 
-About me
+## About me
 
 The start of my career was working in technical support for domains. This allowed me to improve my personal soft skills. Including the rapid development of new information.
 
@@ -12,19 +12,20 @@ At my current place of work, I believe that I have reached the maximum in profes
 
 Now I am improving my theoretical and practical knowledge in this area.
 
-Skills
+## Skills
 
-HTML
-CSS
-Git&GitHub
-JavaScript
-Java
-Python
+* HTML
+* CSS
+* Git&GitHub
+* JavaScript
+* Java
+* Python
 
-Code Example 
+## Code Example 
 
-Kata “Credit Card Mask”
+### **Kata “Credit Card Mask”**
 
+```
 function maskify(cc) {
   const noMaskText = cc.substring(cc.length - 4);
   const maskChar = '#';
@@ -32,12 +33,12 @@ function maskify(cc) {
   
   return maskText + noMaskText;
 }
+```
+## Education
 
-Education
+* Bachelor: Russia, Samara, PSUTI, Faculty of Information Systems and Technologies, direction "Software" 2014-2018
+* Courses: HTML Academy
 
-Bachelor: Russia, Samara, PSUTI, Faculty of Information Systems and Technologies, direction "Software" 2014-2018
-Courses: HTML Academy
-
-English
+## English
 
 A1 (Self-study of English using available apps like Duolingo).
